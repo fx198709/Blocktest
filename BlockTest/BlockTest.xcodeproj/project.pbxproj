@@ -16,6 +16,7 @@
 		DD45FCD31C7570D600454435 /* AddClass.m in Sources */ = {isa = PBXBuildFile; fileRef = DD45FCD21C7570D600454435 /* AddClass.m */; };
 		DD45FCD81C75774A00454435 /* CalculatorClass.m in Sources */ = {isa = PBXBuildFile; fileRef = DD45FCD41C75774A00454435 /* CalculatorClass.m */; };
 		DD45FCD91C75774A00454435 /* NSObject+Caculator.m in Sources */ = {isa = PBXBuildFile; fileRef = DD45FCD61C75774A00454435 /* NSObject+Caculator.m */; };
+		DD45FCDB1C759E2600454435 /* BlockTest.podspec in Resources */ = {isa = PBXBuildFile; fileRef = DD45FCDA1C759E2600454435 /* BlockTest.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		DD45FCD51C75774A00454435 /* CalculatorClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalculatorClass.h; sourceTree = "<group>"; };
 		DD45FCD61C75774A00454435 /* NSObject+Caculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Caculator.m"; sourceTree = "<group>"; };
 		DD45FCD71C75774A00454435 /* NSObject+Caculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Caculator.h"; sourceTree = "<group>"; };
+		DD45FCDA1C759E2600454435 /* BlockTest.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = BlockTest.podspec; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 		DD45FCD01C75525100454435 /* AddBlockTest */ = {
 			isa = PBXGroup;
 			children = (
+				DD45FCDA1C759E2600454435 /* BlockTest.podspec */,
 				DD45FCD51C75774A00454435 /* CalculatorClass.h */,
 				DD45FCD41C75774A00454435 /* CalculatorClass.m */,
 				DD45FCD71C75774A00454435 /* NSObject+Caculator.h */,
@@ -159,6 +162,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD45FCDB1C759E2600454435 /* BlockTest.podspec in Resources */,
 				DD45FCC91C75521C00454435 /* LaunchScreen.storyboard in Resources */,
 				DD45FCC61C75521C00454435 /* Assets.xcassets in Resources */,
 				DD45FCC41C75521C00454435 /* Main.storyboard in Resources */,
